@@ -14,7 +14,7 @@ def generatePoints(keywords, h2, n):
         points[h] = p
 
     with open("outputs/"+keywords+".json", "w") as outfile:
-        json.dump(points, outfile)
+        json.dump(points, outfile, indent=6)
 
 keywords = "elon musk twitter takeover"
 
