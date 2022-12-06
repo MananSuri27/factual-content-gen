@@ -1,4 +1,8 @@
 # factual-content-gen
+Case study for a content generation start-up.
+
+## Problem statement:
+GPT3 knows how to make up non-sense and make it sound believable. For content generation, factuality is a major concern.
 
 ## Hypothesis
 
@@ -7,7 +11,7 @@
 
 ## System Design
 
-### Current Model (Scalenut Cruise Mode)
+### Current Model 
 ![current](https://cdn.discordapp.com/attachments/891317274936483871/1039789173395169402/2.png)
 
 ### Web engine based Model
@@ -20,7 +24,7 @@
 Keywords: elon musk twitter takeover
 H2: Financials of the Deal
 
-### Current Model (Scalenut Cruise Mode)
+### Current Model 
 
 Writing Points:
 - Twitter announced on Monday that it had made a deal with Tesla, but the details of the agreement are still murky. 
